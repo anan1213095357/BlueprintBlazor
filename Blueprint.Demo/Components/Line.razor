@@ -1,0 +1,39 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" style="height:100%" width="100%">
+
+    <style>
+        @@keyframes move-flow {
+            to {
+                offset-distance: 100%;
+            }
+    </style>
+
+    <defs>
+        <path id="path" d="@renderingPath"></path>
+    </defs>
+    <path id="line" d="@renderingPath" stroke="@Color" fill="none" stroke-width="5"
+          stroke-dasharray="10" stroke-dashoffset="0">
+        <animate attributeName="stroke-dashoffset" dur="0.5s" repeatCount="indefinite" from="20" to="0"
+                 path="@renderingPath" />
+    </path>
+
+</svg>
+@code {
+    protected override void OnParametersSet()
+    {
+        InvokeAsync(() =>
+        {
+            renderingPath = $"M{BeginX} {BeginY} C{BeginX + Corner} {BeginY} {EndX - Corner} {EndY} {EndX} {EndY}";
+            StateHasChanged();
+        });
+        base.OnParametersSet();
+    }
+    [Parameter] public double BeginX { get; set; }
+    [Parameter] public double BeginY { get; set; }
+    [Parameter] public double EndX { get; set; }
+    [Parameter] public double EndY { get; set; }
+    [Parameter] public double Corner { get; set; }
+    [Parameter] public double Color { get; set; }
+
+    string renderingPath = "";
+
+}

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\obj\\Debug\\net8.0\\compressed\\b6h6rrlb4k.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Blueprint.Demo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Blueprint.Demo.props",
+      "PackagePath": "build\\Blueprint.Demo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Blueprint.Demo.props",
+      "PackagePath": "buildMultiTargeting\\Blueprint.Demo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Blueprint.Demo.props",
+      "PackagePath": "buildTransitive\\Blueprint.Demo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

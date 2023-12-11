@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8987EAC3-6F43-44E1-AAC1-39B4D22FE304}|Blueprint.Demo\\Blueprint.Demo.csproj|c:\\users\\anan\\source\\repos\\blueprint.demo\\blueprint.demo\\components\\container.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8987EAC3-6F43-44E1-AAC1-39B4D22FE304}|Blueprint.Demo\\Blueprint.Demo.csproj|solutionrelative:blueprint.demo\\components\\container.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8987EAC3-6F43-44E1-AAC1-39B4D22FE304}|Blueprint.Demo\\Blueprint.Demo.csproj|c:\\users\\anan\\source\\repos\\blueprint.demo\\blueprint.demo\\components\\node.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8987EAC3-6F43-44E1-AAC1-39B4D22FE304}|Blueprint.Demo\\Blueprint.Demo.csproj|solutionrelative:blueprint.demo\\components\\node.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8987EAC3-6F43-44E1-AAC1-39B4D22FE304}|Blueprint.Demo\\Blueprint.Demo.csproj|c:\\users\\anan\\source\\repos\\blueprint.demo\\blueprint.demo\\components\\line.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8987EAC3-6F43-44E1-AAC1-39B4D22FE304}|Blueprint.Demo\\Blueprint.Demo.csproj|solutionrelative:blueprint.demo\\components\\line.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8987EAC3-6F43-44E1-AAC1-39B4D22FE304}|Blueprint.Demo\\Blueprint.Demo.csproj|c:\\users\\anan\\source\\repos\\blueprint.demo\\blueprint.demo\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8987EAC3-6F43-44E1-AAC1-39B4D22FE304}|Blueprint.Demo\\Blueprint.Demo.csproj|solutionrelative:blueprint.demo\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8987EAC3-6F43-44E1-AAC1-39B4D22FE304}|Blueprint.Demo\\Blueprint.Demo.csproj|c:\\users\\anan\\source\\repos\\blueprint.demo\\blueprint.demo\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8987EAC3-6F43-44E1-AAC1-39B4D22FE304}|Blueprint.Demo\\Blueprint.Demo.csproj|solutionrelative:blueprint.demo\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8987EAC3-6F43-44E1-AAC1-39B4D22FE304}|Blueprint.Demo\\Blueprint.Demo.csproj|c:\\users\\anan\\source\\repos\\blueprint.demo\\blueprint.demo\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8987EAC3-6F43-44E1-AAC1-39B4D22FE304}|Blueprint.Demo\\Blueprint.Demo.csproj|solutionrelative:blueprint.demo\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Blueprint.Demo\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Blueprint.Demo\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-11T06:16:16.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Blueprint.Demo\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\Pages\\Home.razor",
+              "RelativeToolTip": "Blueprint.Demo\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-11T06:15:42.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\Models\\Node.cs",
+              "RelativeDocumentMoniker": "Blueprint.Demo\\Models\\Node.cs",
+              "ToolTip": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\Models\\Node.cs",
+              "RelativeToolTip": "Blueprint.Demo\\Models\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T06:13:08.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Container.razor",
+              "DocumentMoniker": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\Components\\Container.razor",
+              "RelativeDocumentMoniker": "Blueprint.Demo\\Components\\Container.razor",
+              "ToolTip": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\Components\\Container.razor",
+              "RelativeToolTip": "Blueprint.Demo\\Components\\Container.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-11T06:10:32.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Line.razor",
+              "DocumentMoniker": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\Components\\Line.razor",
+              "RelativeDocumentMoniker": "Blueprint.Demo\\Components\\Line.razor",
+              "ToolTip": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\Components\\Line.razor",
+              "RelativeToolTip": "Blueprint.Demo\\Components\\Line.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-11T05:52:46.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.razor",
+              "DocumentMoniker": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\Components\\Node.razor",
+              "RelativeDocumentMoniker": "Blueprint.Demo\\Components\\Node.razor",
+              "ToolTip": "C:\\Users\\anan\\source\\repos\\Blueprint.Demo\\Blueprint.Demo\\Components\\Node.razor",
+              "RelativeToolTip": "Blueprint.Demo\\Components\\Node.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-11T05:52:23.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
